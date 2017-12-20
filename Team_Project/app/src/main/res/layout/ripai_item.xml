@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="40dp"
+                android:layout_height="1dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="8dip"
+                android:background="#999"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"/>
+            <TextView
+                android:id="@+id/rpDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/textView1"
+                android:layout_marginLeft="5dip"
+                android:layout_marginRight="5dip"
+                android:layout_marginTop="10dp"
+                android:text="2017年9月25日"
+                android:textSize="16sp"
+                android:textColor="#111" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="190dip"
+                android:layout_weight="1"
+                android:layout_height="1dip"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@id/rpDate"
+                android:background="#999" />
+            <ImageView
+                android:id="@+id/rpDelete"
+                android:layout_width="20dp"
+                android:layout_height="40dp"
+                android:layout_toRightOf="@id/textView2"
+                android:src="@drawable/im_delete"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageView
+                android:id="@+id/rpImage"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="39dp"
+                android:src="@color/colorswhite"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="40dp" />
+        </RelativeLayout>
+    </android.support.constraint.ConstraintLayout>
+</LinearLayout>

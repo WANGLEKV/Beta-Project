@@ -93,18 +93,23 @@
             app:layout_constraintRight_toRightOf="parent"
             android:layout_marginEnd="8dp" />
 
-        <ImageView
-            android:id="@+id/showPhoto"
-            android:layout_width="351dp"
-            android:layout_height="202dp"
-            android:layout_marginLeft="8dp"
-            android:layout_marginRight="8dp"
-            android:layout_marginTop="100dp"
-            app:layout_constraintHorizontal_bias="0.529"
-            app:layout_constraintLeft_toLeftOf="parent"
-            app:layout_constraintRight_toRightOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@color/colorswhite" />
+
+        <ListView
+            android:id="@+id/ripailistView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <!--<ImageView-->
+            <!--android:id="@+id/showPhoto"-->
+            <!--android:layout_width="351dp"-->
+            <!--android:layout_height="202dp"-->
+            <!--android:layout_marginLeft="8dp"-->
+            <!--android:layout_marginRight="8dp"-->
+            <!--android:layout_marginTop="100dp"-->
+            <!--app:layout_constraintHorizontal_bias="0.529"-->
+            <!--app:layout_constraintLeft_toLeftOf="parent"-->
+            <!--app:layout_constraintRight_toRightOf="parent"-->
+            <!--app:layout_constraintTop_toTopOf="parent"-->
+            <!--app:srcCompat="@color/colorswhite" />-->
 
 
     </android.support.constraint.ConstraintLayout>

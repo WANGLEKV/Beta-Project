@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
@@ -8,8 +12,16 @@
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
@@ -30,5 +42,9 @@
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     }
 ]

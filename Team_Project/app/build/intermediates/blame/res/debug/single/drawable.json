@@ -1,75 +1,35 @@
 [
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_beiwang_24dp.xml",
-        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_beiwang_24dp.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home_black_24dp.xml",
         "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
     },
     {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dashboard_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_beiwang_24dp.xml",
         "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_beiwang_24dp.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\notification_bg.xml"
-    },
-    {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_photo_camera_black_24dp.xml",
-        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_photo_camera_black_24dp.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\ea0cd42acfeb9f8d5c94a6e28c459abc18df1bb3\\output\\res\\drawable\\design_password_eye.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_drop_down_black_24dp.xml",
-        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_arrow_drop_down_black_24dp.xml"
     },
     {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_black_24dp.xml",
@@ -80,36 +40,20 @@
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_xiugai_black_24dp.xml",
-        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_xiugai_black_24dp.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_local_see_black_24dp.xml",
-        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_local_see_black_24dp.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shezhi_black_24dp.xml",
-        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_shezhi_black_24dp.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand_more_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_expand_more_black_24dp.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
@@ -120,8 +64,16 @@
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_location_on_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_location_on_black_24dp.xml"
+    },
+    {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_xiugai_black_24dp.xml",
@@ -132,28 +84,16 @@
         "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_arrow_drop_down_black_24dp.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tashanzhishi_eye_black_24dp.xml",
-        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_tashanzhishi_eye_black_24dp.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\e44f75bbcb582ea90226280f87f7a17710102051\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand_more_black_24dp.xml",
-        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_expand_more_black_24dp.xml"
-    },
-    {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.xml",
-        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_xie_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_xie_black_24dp.xml"
     },
     {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
@@ -164,20 +104,16 @@
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\6ea5a66394967553ba4f82955bfd77650ef1dc2d\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\ea0cd42acfeb9f8d5c94a6e28c459abc18df1bb3\\output\\res\\drawable\\design_snackbar_background.xml"
-    },
-    {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete_black_24dp.xml",
-        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_delete_black_24dp.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tashanzhishi_eye_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_tashanzhishi_eye_black_24dp.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_location_on_black_24dp.xml",
         "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_location_on_black_24dp.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
@@ -188,16 +124,12 @@
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dagou_24dp.xml",
-        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_dagou_24dp.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
@@ -208,24 +140,20 @@
         "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\textviewbackgd.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dagou_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_dagou_24dp.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_delete_black_24dp.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
@@ -236,36 +164,20 @@
         "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_local_see_black_24dp.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_today_black_24dp.xml",
         "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_today_black_24dp.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_drop_down_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_arrow_drop_down_black_24dp.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_riji_books_black_24dp.xml",
-        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_riji_books_black_24dp.xml"
-    },
-    {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete_black_24dp.xml",
-        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_delete_black_24dp.xml"
     },
     {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.xml",
@@ -284,6 +196,10 @@
         "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_cha_24dp.xml"
     },
     {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_guihua_black_24dp.xml",
         "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_guihua_black_24dp.xml"
     },
@@ -292,16 +208,8 @@
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\6ea5a66394967553ba4f82955bfd77650ef1dc2d\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_black_24dp.xml",
-        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_add_black_24dp.xml"
-    },
-    {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
@@ -316,10 +224,6 @@
         "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_dagou_24dp.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\6ea5a66394967553ba4f82955bfd77650ef1dc2d\\output\\res\\drawable\\design_fab_background.xml"
     },
@@ -332,40 +236,24 @@
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_xiugai_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_xiugai_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textviewbackgd.xml",
         "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\textviewbackgd.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dashboard_black_24dp.xml",
-        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
-    },
-    {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\ea0cd42acfeb9f8d5c94a6e28c459abc18df1bb3\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_xie_black_24dp.xml",
@@ -380,12 +268,412 @@
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\ea0cd42acfeb9f8d5c94a6e28c459abc18df1bb3\\output\\res\\drawable\\design_fab_background.xml"
-    },
-    {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_riji_books_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_riji_books_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_gou_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_gou_24dp.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_today_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_today_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shezhi_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_shezhi_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_photo_camera_black_24dp.xml",
+        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_photo_camera_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tashanzhishi_eye_black_24dp.xml",
+        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_tashanzhishi_eye_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\6ea5a66394967553ba4f82955bfd77650ef1dc2d\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dashboard_black_24dp.xml",
+        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\e44f75bbcb582ea90226280f87f7a17710102051\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myedittext.xml",
+        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\myedittext.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_beiwang_24dp.xml",
+        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_beiwang_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_local_see_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_local_see_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_guihua_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_guihua_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_photo_camera_black_24dp.xml",
+        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_photo_camera_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_drop_down_black_24dp.xml",
+        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_arrow_drop_down_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_xiugai_black_24dp.xml",
+        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_xiugai_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_local_see_black_24dp.xml",
+        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_local_see_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shezhi_black_24dp.xml",
+        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_shezhi_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\e44f75bbcb582ea90226280f87f7a17710102051\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tashanzhishi_eye_black_24dp.xml",
+        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_tashanzhishi_eye_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\e44f75bbcb582ea90226280f87f7a17710102051\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\e44f75bbcb582ea90226280f87f7a17710102051\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand_more_black_24dp.xml",
+        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_expand_more_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.xml",
+        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_beiwang_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_beiwang_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\ea0cd42acfeb9f8d5c94a6e28c459abc18df1bb3\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete_black_24dp.xml",
+        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_delete_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dagou_24dp.xml",
+        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_dagou_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_riji_books_black_24dp.xml",
+        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_riji_books_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete_black_24dp.xml",
+        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_delete_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textviewbackgd.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\textviewbackgd.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_black_24dp.xml",
+        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dashboard_black_24dp.xml",
+        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cha_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_cha_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\ea0cd42acfeb9f8d5c94a6e28c459abc18df1bb3\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\ea0cd42acfeb9f8d5c94a6e28c459abc18df1bb3\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shezhi_black_24dp.xml",
@@ -400,28 +688,32 @@
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_back_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_back_black_24dp.xml"
     },
     {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\6ea5a66394967553ba4f82955bfd77650ef1dc2d\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myedittext.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\myedittext.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
@@ -440,10 +732,6 @@
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
@@ -452,20 +740,12 @@
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_photo_camera_black_24dp.xml",
-        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_photo_camera_black_24dp.xml"
-    },
-    {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tashanzhishi_eye_black_24dp.xml",
-        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_tashanzhishi_eye_black_24dp.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_photo_camera_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_photo_camera_black_24dp.xml"
     },
     {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_today_black_24dp.xml",
         "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_today_black_24dp.xml"
-    },
-    {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_black_24dp.xml",
@@ -484,16 +764,16 @@
         "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_expand_more_black_24dp.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\6ea5a66394967553ba4f82955bfd77650ef1dc2d\\output\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dashboard_black_24dp.xml",
-        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_black_24dp.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\drawable\\ic_more_black_24dp.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_guihua_black_24dp.xml",
@@ -504,31 +784,23 @@
         "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_location_on_black_24dp.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myedittext.xml",
-        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\myedittext.xml"
-    },
-    {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_back_black_24dp.xml",
         "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\drawable\\ic_back_black_24dp.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_back_black_24dp.xml",
         "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\drawable\\ic_back_black_24dp.xml"
-    },
-    {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     }
 ]

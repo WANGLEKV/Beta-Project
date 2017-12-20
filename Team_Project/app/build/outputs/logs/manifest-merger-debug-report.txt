@@ -1,205 +1,205 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:2:1-59:12
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:2:1-59:12
 	package
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:3:5-35
-		INJECTED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:6:5-81
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:6:22-78
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:8:5-71
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:8:5-71
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:8:22-68
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:8:22-68
 uses-permission#android.permission.READ_PROFILE
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:9:5-71
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:9:5-71
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:9:22-68
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:9:22-68
 uses-permission#android.permission.READ_CONTACTS
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:10:5-72
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:10:5-72
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:10:22-69
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:10:22-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:11:5-67
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:11:22-64
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:11:22-64
 application
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:13:5-57:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Orimol\.android\build-cache\31d8d49e0b589217877829a67f11dcc50e98cbc3\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:25.3.1] C:\Users\Orimol\.android\build-cache\6ea5a66394967553ba4f82955bfd77650ef1dc2d\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Orimol\.android\build-cache\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Orimol\.android\build-cache\583948cf6ad514bdf4e5a7cc17f75b120aa9939a\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Orimol\.android\build-cache\c2d688d2c0a9f802e376e787607f0a77bc0d0189\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Orimol\.android\build-cache\942f66a96f8e8bbd27a703dc5ea83583cd9d2b6a\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Orimol\.android\build-cache\353d93bdff768abc388cf7937e5a3d41c58d4806\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Orimol\.android\build-cache\e41f9bcdb7d419ef7d39e8dcdbf7e981ccc22382\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Orimol\.android\build-cache\c0f0cbe4c90e4d08c78db73b6c076bee92d17a45\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Orimol\.android\build-cache\8fa6323504de35a4c1120d3bb5f22daca549bdf7\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Orimol\.android\build-cache\2be220a7de398983ff0e6e79812605ea572f2033\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Orimol\.android\build-cache\141bb41e834f19bc9f6a196f8b4f02a004bbd900\output\AndroidManifest.xml:29:5-20
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:13:5-57:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\corsair_v\.android\build-cache\015da203a2940227ee70b71fb330e183737df418\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\corsair_v\.android\build-cache\e44f75bbcb582ea90226280f87f7a17710102051\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\corsair_v\.android\build-cache\1ab07ac94011049a8c8360da17da0665586fc31b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\corsair_v\.android\build-cache\bf7b4e29f0b35433fd3f685757518fd267ccfb77\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\corsair_v\.android\build-cache\bbc7693f92b2ba51a34b73c672e94a078367bf13\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\corsair_v\.android\build-cache\41a1e51a3bd69432dd72a6b27018776c0d9c5563\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\corsair_v\.android\build-cache\572158fc094948c79b461c46bdd880abc7434feb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\corsair_v\.android\build-cache\80bd5c72d0ccda4ded300c27fe3b6d7cc28cf190\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\corsair_v\.android\build-cache\0d754edbadbcc5047bbe2a3436300cf5476781bd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\corsair_v\.android\build-cache\20ca7c78458a7dbfd551f3851343922f6929f89a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\corsair_v\.android\build-cache\e9042a24e2640be297ff184acd9c0145036d660d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\corsair_v\.android\build-cache\b4db92f8f4e71bd855663ad7ea6560af6bc13dc1\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:16:9-41
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:16:9-41
 	android:supportsRtl
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:18:9-35
 	android:roundIcon
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:17:9-54
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:17:9-54
 	android:allowBackup
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:14:9-35
 	android:icon
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:15:9-43
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:15:9-43
 	android:theme
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:19:9-40
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:19:9-40
 provider#android.support.v4.content.FileProvider
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:20:9-28:20
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:20:9-28:20
 	android:authorities
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:22:13-68
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:22:13-68
 	android:grantUriPermissions
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:24:13-47
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:24:13-47
 	android:exported
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:23:13-37
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:21:13-67
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:21:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:25:13-27:54
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:25:13-27:54
 	android:resource
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:27:17-51
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:27:17-51
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:26:17-67
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:26:17-67
 activity#com.zws.team_project.LoginActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:30:9-38:20
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:30:9-38:20
 	android:label
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:32:13-45
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:32:13-45
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:31:13-42
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:31:13-42
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:33:13-37:29
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:33:13-37:29
 action#android.intent.action.MAIN
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:34:17-69
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:34:17-69
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:34:25-66
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:36:17-77
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:36:17-77
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:36:27-74
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:36:27-74
 activity#com.zws.team_project.BeiwangActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:39:9-53
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:39:9-53
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:39:19-50
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:39:19-50
 activity#com.zws.team_project.WeiguiActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:40:9-52
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:40:9-52
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:40:19-49
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:40:19-49
 activity#com.zws.team_project.TashanZSActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:41:9-54
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:41:9-54
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:41:19-51
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:41:19-51
 activity#com.zws.team_project.SuoyouGuihuaActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:42:9-58
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:42:9-58
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:42:19-55
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:42:19-55
 activity#com.zws.team_project.ZujiActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:43:9-50
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:43:9-50
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:43:19-47
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:43:19-47
 activity#com.zws.team_project.XinrijiActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:44:9-53
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:44:9-53
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:44:19-50
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:44:19-50
 activity#com.zws.team_project.BianjirijiActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:45:9-56
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:45:9-56
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:45:19-53
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:45:19-53
 activity#com.zws.team_project.ChakanrijiActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:46:9-56
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:46:9-56
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:46:19-53
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:46:19-53
 activity#com.zws.team_project.xinbeiwangActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:47:9-56
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:47:9-56
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:47:19-53
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:47:19-53
 activity#com.zws.team_project.XinguihuaActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:48:9-55
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:48:9-55
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:48:19-52
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:48:19-52
 activity#com.zws.team_project.DianshuActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:49:9-53
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:49:9-53
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:49:19-50
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:49:19-50
 activity#com.zws.team_project.ChakanbeiwangActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:50:9-59
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:50:9-59
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:50:19-56
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:50:19-56
 activity#com.zws.team_project.ShezhiActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:51:9-52
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:51:9-52
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:51:19-49
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:51:19-49
 activity#com.zws.team_project.MainActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:52:9-50
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:52:9-50
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:52:19-47
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:52:19-47
 activity#com.zws.team_project.NewUserActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:53:9-53
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:53:9-53
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:53:19-50
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:53:19-50
 activity#com.zws.team_project.SetUserActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:54:9-53
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:54:9-53
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:54:19-50
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:54:19-50
 activity#com.zws.team_project.UserInfoActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:55:9-54
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:55:9-54
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:55:19-51
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:55:19-51
 activity#com.zws.team_project.EditUserInfoActivity
-ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:56:9-58
+ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:56:9-58
 	android:name
-		ADDED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml:56:19-55
+		ADDED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml:56:19-55
 uses-sdk
-INJECTED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Orimol\.android\build-cache\31d8d49e0b589217877829a67f11dcc50e98cbc3\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:25.3.1] C:\Users\Orimol\.android\build-cache\6ea5a66394967553ba4f82955bfd77650ef1dc2d\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Orimol\.android\build-cache\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Orimol\.android\build-cache\583948cf6ad514bdf4e5a7cc17f75b120aa9939a\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Orimol\.android\build-cache\2687f06db3bca6276c01b38b4ca0e4fc804474f3\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Orimol\.android\build-cache\c2d688d2c0a9f802e376e787607f0a77bc0d0189\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Orimol\.android\build-cache\942f66a96f8e8bbd27a703dc5ea83583cd9d2b6a\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Orimol\.android\build-cache\353d93bdff768abc388cf7937e5a3d41c58d4806\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Orimol\.android\build-cache\e41f9bcdb7d419ef7d39e8dcdbf7e981ccc22382\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Orimol\.android\build-cache\c0f0cbe4c90e4d08c78db73b6c076bee92d17a45\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Orimol\.android\build-cache\8fa6323504de35a4c1120d3bb5f22daca549bdf7\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Orimol\.android\build-cache\2be220a7de398983ff0e6e79812605ea572f2033\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Orimol\.android\build-cache\141bb41e834f19bc9f6a196f8b4f02a004bbd900\output\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\corsair_v\.android\build-cache\015da203a2940227ee70b71fb330e183737df418\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\corsair_v\.android\build-cache\e44f75bbcb582ea90226280f87f7a17710102051\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\corsair_v\.android\build-cache\1ab07ac94011049a8c8360da17da0665586fc31b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\corsair_v\.android\build-cache\bf7b4e29f0b35433fd3f685757518fd267ccfb77\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\corsair_v\.android\build-cache\513fe29f9136f41eef42698576cb006c3828a00a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\corsair_v\.android\build-cache\bbc7693f92b2ba51a34b73c672e94a078367bf13\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\corsair_v\.android\build-cache\41a1e51a3bd69432dd72a6b27018776c0d9c5563\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\corsair_v\.android\build-cache\572158fc094948c79b461c46bdd880abc7434feb\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\corsair_v\.android\build-cache\80bd5c72d0ccda4ded300c27fe3b6d7cc28cf190\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\corsair_v\.android\build-cache\0d754edbadbcc5047bbe2a3436300cf5476781bd\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\corsair_v\.android\build-cache\20ca7c78458a7dbfd551f3851343922f6929f89a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\corsair_v\.android\build-cache\e9042a24e2640be297ff184acd9c0145036d660d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\corsair_v\.android\build-cache\b4db92f8f4e71bd855663ad7ea6560af6bc13dc1\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Orimol\.android\build-cache\6ea5a66394967553ba4f82955bfd77650ef1dc2d\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\corsair_v\.android\build-cache\e44f75bbcb582ea90226280f87f7a17710102051\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndriodProject\Team_Project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A45\Beta-Project\Team_Project\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\Orimol\.android\build-cache\6ea5a66394967553ba4f82955bfd77650ef1dc2d\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Orimol\.android\build-cache\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Orimol\.android\build-cache\583948cf6ad514bdf4e5a7cc17f75b120aa9939a\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Orimol\.android\build-cache\2687f06db3bca6276c01b38b4ca0e4fc804474f3\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Orimol\.android\build-cache\c2d688d2c0a9f802e376e787607f0a77bc0d0189\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Orimol\.android\build-cache\942f66a96f8e8bbd27a703dc5ea83583cd9d2b6a\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Orimol\.android\build-cache\353d93bdff768abc388cf7937e5a3d41c58d4806\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Orimol\.android\build-cache\e41f9bcdb7d419ef7d39e8dcdbf7e981ccc22382\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Orimol\.android\build-cache\c0f0cbe4c90e4d08c78db73b6c076bee92d17a45\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Orimol\.android\build-cache\8fa6323504de35a4c1120d3bb5f22daca549bdf7\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Orimol\.android\build-cache\2be220a7de398983ff0e6e79812605ea572f2033\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Orimol\.android\build-cache\141bb41e834f19bc9f6a196f8b4f02a004bbd900\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\corsair_v\.android\build-cache\e44f75bbcb582ea90226280f87f7a17710102051\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\corsair_v\.android\build-cache\1ab07ac94011049a8c8360da17da0665586fc31b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\corsair_v\.android\build-cache\bf7b4e29f0b35433fd3f685757518fd267ccfb77\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\corsair_v\.android\build-cache\513fe29f9136f41eef42698576cb006c3828a00a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\corsair_v\.android\build-cache\bbc7693f92b2ba51a34b73c672e94a078367bf13\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\corsair_v\.android\build-cache\41a1e51a3bd69432dd72a6b27018776c0d9c5563\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\corsair_v\.android\build-cache\572158fc094948c79b461c46bdd880abc7434feb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\corsair_v\.android\build-cache\80bd5c72d0ccda4ded300c27fe3b6d7cc28cf190\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\corsair_v\.android\build-cache\0d754edbadbcc5047bbe2a3436300cf5476781bd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\corsair_v\.android\build-cache\20ca7c78458a7dbfd551f3851343922f6929f89a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\corsair_v\.android\build-cache\e9042a24e2640be297ff184acd9c0145036d660d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\corsair_v\.android\build-cache\b4db92f8f4e71bd855663ad7ea6560af6bc13dc1\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Orimol\.android\build-cache\6ea5a66394967553ba4f82955bfd77650ef1dc2d\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\corsair_v\.android\build-cache\e44f75bbcb582ea90226280f87f7a17710102051\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Orimol\.android\build-cache\6ea5a66394967553ba4f82955bfd77650ef1dc2d\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\corsair_v\.android\build-cache\e44f75bbcb582ea90226280f87f7a17710102051\output\AndroidManifest.xml:26:9-47
