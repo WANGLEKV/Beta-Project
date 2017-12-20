@@ -93,6 +93,8 @@ public class MainActivity extends AppCompatActivity {
                                 break;
                             case R.id.navigation_RiPaiGN:
                                 viewPager.setCurrentItem(2);
+
+
                                 break;
                             case R.id.navigation_GengDuo:
                                 viewPager.setCurrentItem(3);
@@ -189,4 +191,6 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this,UserInfoActivity.class);
         startActivity(intent);
     }
+
+
 }
