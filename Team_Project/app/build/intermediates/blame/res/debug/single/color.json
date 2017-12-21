@@ -28,12 +28,12 @@
         "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\color\\abc_tint_seek_thumb.xml"
-    },
-    {
         "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
         "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
@@ -48,20 +48,20 @@
         "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\color\\abc_btn_colored_text_material.xml"
-    },
-    {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
         "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
         "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",

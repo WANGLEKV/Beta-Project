@@ -40,12 +40,12 @@
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ripai_frag.xml",
-        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\layout\\ripai_frag.xml"
-    },
-    {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\ea0cd42acfeb9f8d5c94a6e28c459abc18df1bb3\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ripai_frag.xml",
+        "source": "D:\\AndriodProject\\Team_Project\\app\\src\\main\\res\\layout\\ripai_frag.xml"
     },
     {
         "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -68,12 +68,12 @@
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\6ea5a66394967553ba4f82955bfd77650ef1dc2d\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_weigui.xml",
-        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\layout\\activity_weigui.xml"
-    },
-    {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_weigui.xml",
+        "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\layout\\activity_weigui.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
@@ -132,20 +132,20 @@
         "source": "E:\\AndroidData\\Team_Project\\app\\src\\main\\res\\layout\\riji_frag.xml"
     },
     {
-        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\45度炸\\.android\\build-cache\\ea0cd42acfeb9f8d5c94a6e28c459abc18df1bb3\\output\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
         "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\45度炸\\.android\\build-cache\\ea0cd42acfeb9f8d5c94a6e28c459abc18df1bb3\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "C:\\Users\\corsair_v\\.android\\build-cache\\1ab07ac94011049a8c8360da17da0665586fc31b\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
@@ -176,6 +176,10 @@
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\440620b793a32c686b5b94b3884009df64ac5411\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ripai_item.xml",
+        "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\layout\\ripai_item.xml"
+    },
+    {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
         "source": "C:\\Users\\45度炸\\.android\\build-cache\\ea0cd42acfeb9f8d5c94a6e28c459abc18df1bb3\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
@@ -200,12 +204,12 @@
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
         "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
         "source": "C:\\Users\\Orimol\\.android\\build-cache\\6ea5a66394967553ba4f82955bfd77650ef1dc2d\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\AndriodProject\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Orimol\\.android\\build-cache\\d2a8bbe7773ec7a60b9ad767370caaa72ae138cd\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -216,12 +220,12 @@
         "source": "C:\\Users\\corsair_v\\.android\\build-cache\\e44f75bbcb582ea90226280f87f7a17710102051\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\e44f75bbcb582ea90226280f87f7a17710102051\\output\\res\\layout\\design_layout_tab_icon.xml"
-    },
-    {
         "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ripai_frag.xml",
         "source": "D:\\A45\\Beta-Project\\Team_Project\\app\\src\\main\\res\\layout\\ripai_frag.xml"
+    },
+    {
+        "merged": "D:\\A45\\Beta-Project\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\corsair_v\\.android\\build-cache\\e44f75bbcb582ea90226280f87f7a17710102051\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
         "merged": "E:\\AndroidData\\Team_Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
